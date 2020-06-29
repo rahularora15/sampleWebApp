@@ -67,7 +67,7 @@ stages
 		
 			
 
-		{
+		
 			bat "docker build -t rahul/random-image ./"
 		}
 	}
